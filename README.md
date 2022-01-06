@@ -1,5 +1,5 @@
 ### 🗨️Chat Application using React JS
-<br/>
+-----
 Using: Sockets, Rest APIs, Sending Images, React Hooks, Props, CSS <br/>
 & Backend is hosted by https://chatengine.io <br/>
 <br/>
